@@ -1,14 +1,14 @@
 # 42cursus - Libft
 <br>
-## About
+## About  
 The purpose of this project is to re-code some libc functions, as well as other common utility functions to be reused in the subsequent 42 projects.
 <br>
-## Files
-### Makefile
+## Files  
+### Makefile  
 - Makefile
-### Header
+### Header  
 - libft.h
-### Source code
+### Source code  
 
 |  Libc Functions  | Additional Functions  |  Bonus Functions |
 | :------------ | :------------ | :------------ |
