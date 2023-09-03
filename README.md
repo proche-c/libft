@@ -40,11 +40,11 @@ The purpose of this project is to re-code some libc functions, as well as other 
 
 ## Instructions
 
-### 1.Cloning the repositories  
+### 1. Cloning the repositories  
 ```shell
 $ git clone https://github.com/proche-c/libft.git
 ```
-### 2.Compiling  
+### 2. Compiling  
 ```shell
 $ cd path/to/libft && make
 ```
