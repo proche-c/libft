@@ -36,3 +36,26 @@ The purpose of this project is to re-code some libc functions, as well as other 
 | ft_calloc  |   |   |
 | ft_strdup  |   |   |
 
+## Instructions
+
+### 1.Cloning the repositories  
+```shell
+$ git clone https://github.com/proche-c/libft.git
+```
+### 2.Compiling  
+```shell
+$ cd path/to/libft && make
+```
+### 3. How to use it in your code. 
+Include its header in the header of your code:
+```shell
+#include "libft.h"
+```
+and, when compiling your code, add the required flags:
+```shell
+$ -lft -L path/to/libft.a -I path/to/libft.h
+```
+### 4. Cleaning all binary and executable files
+```shell
+$ cd path/to/libft && make fclean
+```
